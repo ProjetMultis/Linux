@@ -1,0 +1,22 @@
+cd /(projet)
+echo "# Linux" >> README.md
+
+initialisation du .git
+git init
+
+ajout du Readme
+git add README.md
+
+commit 
+git commit -m "nom commit"
+
+ajout au résau sociaux github
+git remote add origin https://github.com/tonProjet/linux.git
+
+intialise sur ton git
+git push -u origin master
+
+doc:
+https://wiki.archlinux.org/index.php/git
+
+
