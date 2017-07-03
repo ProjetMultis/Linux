@@ -19,4 +19,15 @@ git push -u origin master
 doc:
 https://wiki.archlinux.org/index.php/git
 
+si ajouter un dossier il faut
+aller dans le dossier avec un cd
+puis un git add nom_du_fichier
+ensuite 
+- git status pour voir les commits
+- git commit -m "nom commit"
+- git push -u origin master et taper le user et le mdp
+
+pour mettre à jour de github sur le navigateur en local faire un
+git pull
+
 
