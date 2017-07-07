@@ -11,13 +11,13 @@ et modifier
 title          Arch Linux
 linux          /vmlinuz-linux
 initrd         /initramfs-linux.img
-options         root=PARTUUID=233f38c8-4023-4d57-aa95-5ecfe6e372b0 rw
+options         root=XXXXXX
 
 en sa :
 title          Arch Linux Hardened
 linux          /vmlinuz-linux-hardened
 initrd         /initramfs-linux-hardened.img
-options         root=PARTUUID=233f38c8-4023-4d57-aa95-5ecfe6e372b0 rw
+options         root=XXXXXX
 
 laissé bien options comme l'original
 même procéder pour tous les noyaux (lts etc...)
