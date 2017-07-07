@@ -4,7 +4,7 @@ télécharger dabord linux-hardened
 dans le terminal 
 cd /boot/loader/entries
 ls puis sa affiche arch.conf
-ensuite :
+ensuite (ps: laissé bien votre options comme l'original):
 cp arch.conf arch-hardened.conf
 puis nano arch-hardened.conf
 et modifier
@@ -19,6 +19,6 @@ linux          /vmlinuz-linux-hardened
 initrd         /initramfs-linux-hardened.img
 options         root=XXXXXX
 
-laissé bien options comme l'original
+
 même procéder pour tous les noyaux (lts etc...)
 et rédémarrer votre ordinateur puis démarrer sur votre nouvelle entrée
