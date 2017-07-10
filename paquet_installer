@@ -2,5 +2,7 @@ icone : arc-icon-theme-git
 démarage : grub_customizer
 theme : gtk-theme-arch-git
 menu : brisk ou whisper
-depot : pacaur ou yaourt
-viewer image : Shotwell 
+depot : pacaur
+viewer image : Shotwell
+video : vlc
+ 
