@@ -2,3 +2,5 @@
 - android-sdk
 - android-platform
 - android-sdk-platform-tool
+- jre8-openjdk
+- jre8-openjdk-headless
