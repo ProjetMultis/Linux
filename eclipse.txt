@@ -3,3 +3,6 @@ Installation
 - eclipse-common
 - eclipse-java
 - eclipse-ecj
+- jre8-openjdk
+- jre8-openjdk-headless
+
