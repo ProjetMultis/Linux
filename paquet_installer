@@ -4,5 +4,5 @@ theme : gtk-theme-arch-git
 menu : brisk ou whisper
 depot : pacaur
 viewer image : Shotwell
-video : vlc
+video : vlc-git
  
