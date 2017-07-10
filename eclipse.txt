@@ -1,0 +1,5 @@
+Installation
+
+- eclipse-common
+- eclipse-java
+- eclipse-ecj
