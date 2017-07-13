@@ -30,5 +30,15 @@ ensuite
 pour mettre à jour de github sur le navigateur en local faire un
 git pull
 
-
-fbfd
+rm -Rf monrepertoire 
+##permet de supprimer intégralement un répertoire vide ou non vide
+git rebase -i SHAducommit
+##permet de supprimer un commit du dépôt
+git reset --hard SHAducommit
+##permet de modifier le commit en le mettant en master (sera pris en 
+##compte en premier)
+git reset --soft SHAducommit
+##permet de modifier le commit en ayant pour valeur le commit du master 
+##(du premier)
+git remote rm origin
+##supprime l'adresse d'origine URL
