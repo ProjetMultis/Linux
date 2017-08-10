@@ -5,4 +5,4 @@ décommentez dans /etc/php/php.ini
    
 puis pour le Allownopassword allez dans :
 /etc/webapps/phpmyadmin/config.inc.php
-et mettez à : Allownopassword : true à la place de false
+et mettez à : $cfg['Server'][$i]['AllowNoPassword']:  : true à la place de false
