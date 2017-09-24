@@ -1,0 +1,21 @@
+﻿
+Plugins clique méthode dans classe :
+
+Goto-definition
+Project-manager
+
+Plugin autocomplete php :
+
+atom-autocomplete-php
+
+Plugins détectes erreurs
+
+linter
+linter-ui-default
+intentions
+busy-signal
+linter-php
+
+Plugin ouvrir fichiers récent
+
+open-recent
