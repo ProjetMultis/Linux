@@ -19,3 +19,11 @@ linter-php
 Plugin ouvrir fichiers récent
 
 open-recent
+
+Plugin pour rajouter des icons en fonction de leurs langages
+
+File-icons
+
+Plugin pour fermer automatiquement les balises en HTML
+
+less-than-slash
